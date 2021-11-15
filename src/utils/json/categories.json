@@ -1,0 +1,18 @@
+{
+  "categories": 
+  {
+    "todas" : "Todas",
+    "bazar_e_limpeza" : "Bazar e Limpeza",
+    "bebidas" : "Bebidas",
+    "carnes" : "Carnes",
+    "comidas_prontas_e_congelados" : "Comidas Prontas e Congelados",
+    "frios_Leites_e_derivados" : "Frios, Leites e Derivados",
+    "frutas_ovos_e_verduras" : "Frutas, ovos e verduras",
+    "higiene_pessoal" : "Higiene Pessoal",
+    "importados" : "Importados",
+    "mercearia" : "Mercearia",
+    "padaria_e_sobremesas" : "Padaria e Sobremesas",
+    "saude_e_beleza" : "Saúde e Beleza",
+    "sem_categoria" : "Sem Categoria"
+  } 
+}

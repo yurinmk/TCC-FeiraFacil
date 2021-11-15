@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331806103827",
+    "project_id": "feira-facil-6ef23",
+    "storage_bucket": "feira-facil-6ef23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331806103827:android:b0bf5326506212359122e6",
+        "android_client_info": {
+          "package_name": "com.feirafacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331806103827-n2gr8q4lfc0rv0tera6qkrr565e5ospl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feirafacil",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "331806103827-1pij2f495n86dqb1he7ev7dkb0441aea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLCTXtmfubxa2UEueJnUZ2VKNZO-_WzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331806103827-1pij2f495n86dqb1he7ev7dkb0441aea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
